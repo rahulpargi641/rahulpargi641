@@ -1,6 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Pargi
 # Game Programmer
-I've been learning game development for more than 2 years. I've created many game using Unity and Unreal Engine 4 in various genres like Platformer, 3rd person RPG, Top down shooter, causal and many more* ✉️  You can contact me at [rahulpargi641@gmail.com](mailto:rahulpargi641@gmail.com)* 🧠  I'm learning Data structures and Algorithms
+I've been learning game development for more than 2 years. I've created many game using Unity and Unreal Engine 4 in various genres like Platformer, 3rd person RPG, Top down shooter, causal and many more* 
+✉️  You can contact me at [rahulpargi641@gmail.com](mailto:rahulpargi641@gmail.com)* 
+🧠  I'm learning Data structures and Algorithms
 
 ### Skills
 
