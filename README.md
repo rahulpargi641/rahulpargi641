@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Pargi 
-Game Programmer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Pargi===================================================================================================================================
+Game Programmer---------------
 I've been learning game development for more than 2 years. I've created many game using Unity and Unreal Engine 4 in various genres like Platformer, 3rd person RPG, Top down shooter, causal and many more.* ✉️  You can contact me at [rahulpargi641@gmail.com](mailto:rahulpargi641@gmail.com)* 🧠  I'm learning Data structures and Algorithms
 
 ### Skills
@@ -27,7 +27,3 @@ I've been learning game development for more than 2 years. I've created many gam
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/rahulpargi641/Realm-Rush" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulpargi641&repo=Realm-Rush&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rahulpargi641/TileVania" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulpargi641&repo=TileVania&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-
-
-
