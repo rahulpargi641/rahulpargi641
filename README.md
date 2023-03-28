@@ -1,8 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Pargi
 # Game Programmer
-I'm a self-taught game programmer with a passion for creating games that engage and challenge players. With 2+ years of experience in game development, I've gained expertise in using both Unity and Unreal Engine to develop games in various genres, such as 3rd person RPG, platformer, puzzle, and more.
+I'm a game programmer with a passion for creating engaging and challenging games. I've been teaching myself game programming and development over the past 2 years, and have gained expertise in using both Unity and Unreal Engine. While I don't have industry experience, I've invested a lot of time and effort into learning the ins and outs of game development, and have created games in various genres, such as 3rd person RPG, platformer, puzzle, and more.
 
 In addition to my game development skills, I possess a strong understanding of computer science principles that help me solve complex programming challenges. I'm always looking to learn new things and explore different areas of knowledge, such as physics and how things works.
+
+Feel free to check out my GitHub repositories to see some of my latest projects! 🚀
+
 
 * ✉️  You can contact me at [rahulpargi641@gmail.com](mailto:rahulpargi641@gmail.com)
 * 🧠  I'm learning Data structures and Algorithms
