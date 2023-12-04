@@ -1,4 +1,4 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Pargi 
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Pargi 
 ## Game Programmer
 
 I have been teaching myself game development over the past 3 years, becoming proficient in using both Unity and Unreal Engine. I have completed 19 projects in total, including 10 in Unity, 5 in Unreal Engine, and 4 in C++. I have 14 game projects with playable links, each accompanied by a README file.. I have successfully created games in various genres, including 3rd-person RPGs, platformers, tower defense, shooters, and more. 
