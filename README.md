@@ -9,8 +9,9 @@ Feel free to check out my GitHub repositories to see some of my latest projects!
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://rahulpargi641.wixsite.com/my-site)
-*  ✉️  You can contact me at [rahulpargi641@gmail.com](mailto:rahulpargi641@gmail.com)
-*  🧠  I'm learning Data Structures and Algorithms* 🤝  I'm open to collaborating on interesting projects
+* ✉️  You can contact me at [rahulpargi641@gmail.com](mailto:rahulpargi641@gmail.com)
+* 🧠  I'm learning Data Structures and Algorithms
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
