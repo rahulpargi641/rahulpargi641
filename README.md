@@ -1,13 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Pargi 
-Game Programmer
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Pargi 
+## Game Programmer
+
 I have been teaching myself game development over the past 3 years, becoming proficient in using both Unity and Unreal Engine. I have completed 19 projects in total, including 10 in Unity, 5 in Unreal Engine, and 4 in C++. I have 14 game projects with playable links, each accompanied by a README file.. I have successfully created games in various genres, including 3rd-person RPGs, platformers, tower defense, shooters, and more. 
 
 In addition to my game development skills, I possess a strong understanding of computer science principles that help me solve complex programming challenges. I am always looking to learn new things and explore different areas of knowledge, such as physics and how things work.
+
 Feel free to check out my GitHub repositories to see some of my latest projects! 🚀
-* 🌍  I'm based in India*
-* 🖥️  See my portfolio at [MyPortfolio](http://rahulpargi641.wixsite.com/my-site)*
-*  ✉️  You can contact me at [rahulpargi641@gmail.com](mailto:rahulpargi641@gmail.com)*
-*  🧠  I'm learning Data Structures and Algorithms* 🤝  I'm open to collaborating on interesting projects*
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [MyPortfolio](http://rahulpargi641.wixsite.com/my-site)
+*  ✉️  You can contact me at [rahulpargi641@gmail.com](mailto:rahulpargi641@gmail.com)
+*  🧠  I'm learning Data Structures and Algorithms* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
