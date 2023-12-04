@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul 
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Rahul
 # Game Programmer
 I've been teaching myself game programming and development over the past 2 years, and have become proficient in using both Unity and Unreal Engine. While I don't have industry experience, I've invested a lot of time and effort into learning the ins and outs of game development, and have created games in various genres, such as 3rd person RPG, platformer, strategy, and more."
 
@@ -8,7 +8,6 @@ Feel free to check out my GitHub repositories to see some of my latest projects!
 
 
 * ✉️  You can contact me at [rahulpargi641@gmail.com](mailto:rahulpargi641@gmail.com)
-* 🧠  I'm learning Data structures and Algorithms
 
 ### Skills
 
